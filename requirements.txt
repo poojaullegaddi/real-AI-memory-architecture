@@ -1,0 +1,7 @@
+streamlit
+groq
+python-dotenv
+tiktoken
+chromadb
+sentence-transformers
+torch
