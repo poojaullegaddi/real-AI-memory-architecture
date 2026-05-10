@@ -425,6 +425,4 @@ Instead of keyword matching, the assistant can retrieve memories based on meanin
 # Screenshots
 
 ## Main Chatbot UI
-# Live Demo
-
-![Chatbot UI](image/Screenshot_real_AI_memory_architecture)
+# Live Demo![Chatbot UI](image/Screenshot_real_AI_memory_architecture.png)
