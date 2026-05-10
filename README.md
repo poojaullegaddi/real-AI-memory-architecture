@@ -422,3 +422,8 @@ Vector databases allow semantic retrieval.
 Instead of keyword matching, the assistant can retrieve memories based on meaning.
 
 ---
+# Screenshots
+
+## Main Chatbot UI
+
+![Chatbot UI](Screenshot_real_AI_memory_architecture)
